@@ -5,9 +5,6 @@ import time
 # Hello! You will need to replace this with your actual access 'BEARER' token - Get one from https://developer.twitter.com/en/portal/petition/essential/basic-info
 access_token = ""
 
-#Twitter's V2 API allows for 300 requests per 15 minutes, that translates to 5 seconds per request. Change this to a higher number if you get rate limited.
-seconds = 5
-
 # IGNORE THE STUFF BELOW UNLESS YOU KNOW WHAT YOU ARE DOING
 # Ask user for a username to look up
 username = input("Enter a username to look up: ")
