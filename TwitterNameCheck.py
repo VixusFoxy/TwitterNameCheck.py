@@ -30,4 +30,4 @@ while True:
     # print(resp.json())
 
   # We want to run this on a loop of x seconds
-  time.sleep(5)
+  time.sleep(3)
